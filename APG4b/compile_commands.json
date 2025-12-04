@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "home/doxaripo/projects/kyopro/AtCoder/APG4b",
+    "command": "g++ -std=gnu++20 -O2 -I /home/doxaripo/lib/ac-library-master -c main.cpp -o main.o",
+    "file": "A.cpp"
+  },
+  {
+    "directory": "home/doxaripo/projects/kyopro/AtCoder/APG4b",
+    "command": "g++ -std=gnu++20 -O2 -I /home/doxaripo/lib/ac-library-master -c main.cpp -o main.o",
+    "file": "B.cpp"
+  }
+]
